@@ -2674,3 +2674,6 @@ z	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function
 {{ page.title }} {% if page.tagline %}{{page.tagline}}{% endif %}	_includes/themes/twitter/post.html	/^    <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}<\/small>{% endif %}<\/h1>$/;"	h
 {{ tag[0] }}	tags.html	/^  <h2 id="{{ tag[0] }}-ref">{{ tag[0] }}<\/h2>$/;"	i
 {{ tag[0] }}-ref	tags.html	/^  <h2 id="{{ tag[0] }}-ref">{{ tag[0] }}<\/h2>$/;"	I
+代码	_posts/2023-09-14-enable-ia32e.md	/^### 代码$/;"	S
+开启IA-32e模式	_posts/2023-09-14-enable-ia32e.md	/^### 开启IA-32e模式$/;"	S
+开启保护模式	_posts/2023-09-14-enable-ia32e.md	/^### 开启保护模式$/;"	S
