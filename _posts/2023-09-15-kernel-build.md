@@ -554,7 +554,7 @@ todo
 
 上文详细叙述kernel image(bzimage)的构建过程，和如下的参考图是一致的(细节上有些差别)。
 
-<img src="/home/jiangc/图片/typora/ba1471e4edc86d8c4e3cc00ac136d314.png" style="zoom: 40%;" />
+<img src="https://github.com/Reventon1993/pictures/blob/master/typora/ba1471e4edc86d8c4e3cc00ac136d314.png" style="zoom: 40%;" />
 
 我们这里探讨一下为什么构建规则这么复杂：
 
@@ -597,4 +597,4 @@ setup.bin的作用如下：
 
 ### kernel image的布局
 
-<img src="/home/jiangc/.config/Typora/typora-user-images/image-20230710085454330.png" alt="image-20230710085454330" style="zoom:40%;" />
+<img src="https://github.com/Reventon1993/pictures/blob/b123163acaf6dc0aa601476555084cf6379d7814/typora/image-20230710085454330.png" alt="image-20230710085454330" style="zoom:40%;" />
