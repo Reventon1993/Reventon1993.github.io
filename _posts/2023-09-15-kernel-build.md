@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "big real mode"
+title: "kernel build"
 category: kernel
 tags: [kernel,kbuild]
 ---
