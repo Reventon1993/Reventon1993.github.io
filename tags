@@ -1930,6 +1930,7 @@ bq	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){functio
 br	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v
 bs	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v
 bt	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v
+build kernel image	_posts/2023-09-15-kernel-build.md	/^### build kernel image$/;"	S	section:kernel build
 buildFragment	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	f	function:p
 button	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^button,html input[type="button"],input[type="reset"],input[type="submit"]{-webkit-appearance:but/;"	s
 button	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^button,input,select,textarea{margin:0;font-size:100%;vertical-align:middle;}$/;"	s
@@ -1949,6 +1950,8 @@ bw	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){functio
 bx	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v
 by	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v
 bz	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	c
+bzImage	_posts/2023-09-15-kernel-build.md	/^### bzImage$/;"	S	section:kernel build
+bzImage的构建	_posts/2023-09-15-kernel-build.md	/^#### bzImage的构建$/;"	t	subsection:kbuild""子目录的构建
 c	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	f
 c	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v
 c	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v	class:p
@@ -2078,6 +2081,7 @@ da	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){functio
 dd	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^dd{margin-left:10px;}$/;"	s
 dd	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^dt,dd{line-height:20px;}$/;"	s
 debug	_plugins/debug.rb	/^    def debug(obj, stdout=false)$/;"	f	module:Jekyll.DebugFilter
+default goal	_posts/2023-09-15-kernel-build.md	/^### default goal$/;"	S	section:kernel build
 delegateType	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	p	class:p.event.special
 deleteExpando	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	p	class:p.support.b
 details	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display:block;}$/;"	s
@@ -2107,6 +2111,7 @@ enctype	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){fu
 error	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	f	function:bc
 event	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	c	class:p
 expand	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	m	class:p.cssHooks
+ext4的构建	_posts/2023-09-15-kernel-build.md	/^#### ext4的构建$/;"	t	subsection:kbuild""子目录的构建
 f	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	f	function:p.param
 f	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v
 f	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v	class:p
@@ -2343,6 +2348,10 @@ k	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function
 k	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v
 k	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v	class:p
 k	assets/themes/twitter/google-code-prettify/run_prettify.js	/^P(e,250):"function"===typeof a&&a()}for(var b=d||document.body,i=b.ownerDocument||document,b=[b./;"	v
+kbuild	_posts/2023-09-15-kernel-build.md	/^## kbuild$/;"	s
+kernel build	_posts/2023-09-15-kernel-build.md	/^## kernel build$/;"	s
+kernel image	_posts/2023-09-15-kernel-build.md	/^## kernel image $/;"	s
+kernel image的布局	_posts/2023-09-15-kernel-build.md	/^### kernel image的布局$/;"	S	section:kernel image
 kernel_modules	assets/file/trace/Makefile	/^kernel_modules:$/;"	t
 l	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	c
 l	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v
@@ -2406,10 +2415,12 @@ main	assets/file/exception/sehtes.cpp	/^int main() $/;"	f	typeref:typename:int
 main	assets/file/ms17010/ms17010detect.py	/^def main():$/;"	f
 main_scan	assets/file/ms17010/ms17010detect.py	/^def main_scan(arg, isIP):$/;"	f
 make_pool	assets/file/ms17010/ms17010detect.py	/^def make_pool(thread, iplist_list):$/;"	f
+makefiles	_posts/2023-09-15-kernel-build.md	/^## makefiles$/;"	s
 matches	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	f	function:bc
 matchesSelector	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	f	function:bc
 module_exit	assets/file/trace/sillymod.c	/^module_exit(silly_exit);$/;"	p	file:
 module_init	assets/file/trace/sillymod.c	/^module_init(silly_init);$/;"	p	file:
+modules	_posts/2023-09-15-kernel-build.md	/^### modules$/;"	S	section:kernel build
 modules_install	assets/file/trace/Makefile	/^modules_install: all$/;"	t
 multiprint	assets/file/ms17010/ms17010detect.py	/^def multiprint(str):$/;"	f
 n	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v
@@ -2549,6 +2560,8 @@ select[readonly]	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^i
 select[size]	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^select[multiple],select[size]{height:auto;}$/;"	s
 setData	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	p	class:p.event.customEvent
 setOffset	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	m	class:p.offset
+setup.bin	_posts/2023-09-15-kernel-build.md	/^### setup.bin$/;"	S	section:kernel build
+setup.bin	_posts/2023-09-15-kernel-build.md	/^#### setup.bin$/;"	t	subsection:kernel image""构建过程
 shrinkWrapBlocks	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	p	class:p.support.b
 silly_exit	assets/file/trace/sillymod.c	/^static void __exit silly_exit(void)$/;"	f	typeref:typename:void __exit	file:
 silly_init	assets/file/trace/sillymod.c	/^static int __init silly_init(void)$/;"	f	typeref:typename:int __init	file:
@@ -2652,6 +2665,8 @@ v	assets/themes/twitter/google-code-prettify/prettify.js	/^g[c],n=r[3];if(n)for(
 v	assets/themes/twitter/google-code-prettify/prettify.js	/^{h:m,c:d,j:u,i:o};K(r)}}}i<p.length?setTimeout(g,250):"function"===typeof a&&a()}for(var b=d||do/;"	v
 video	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^audio,canvas,video{display:inline-block;*display:inline;*zoom:1;}$/;"	s
 visibility	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	p	class:bT
+vmlinux	_posts/2023-09-15-kernel-build.md	/^### vmlinux$/;"	S	section:kernel build
+vmlinux.bin	_posts/2023-09-15-kernel-build.md	/^### vmlinux.bin$/;"	S	section:kernel build
 w	assets/themes/twitter/google-code-prettify/prettify.js	/^{h:m,c:d,j:u,i:o};K(r)}}}i<p.length?setTimeout(g,250):"function"===typeof a&&a()}for(var b=d||do/;"	v
 w	assets/themes/twitter/google-code-prettify/run_prettify.js	/^(function(){function X(e){function j(){try{J.doScroll("left")}catch(e){P(j,50);return}w("poll")}/;"	f	function:X
 w	assets/themes/twitter/google-code-prettify/run_prettify.js	/^P(e,250):"function"===typeof a&&a()}for(var b=d||document.body,i=b.ownerDocument||document,b=[b./;"	v
@@ -2675,5 +2690,10 @@ z	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function
 {{ tag[0] }}	tags.html	/^  <h2 id="{{ tag[0] }}-ref">{{ tag[0] }}<\/h2>$/;"	i
 {{ tag[0] }}-ref	tags.html	/^  <h2 id="{{ tag[0] }}-ref">{{ tag[0] }}<\/h2>$/;"	I
 代码	_posts/2023-09-14-enable-ia32e.md	/^### 代码$/;"	S
+内核重定位	_posts/2023-09-15-kernel-build.md	/^#### 内核重定位$/;"	t	subsection:kernel image""构建过程
+压缩	_posts/2023-09-15-kernel-build.md	/^#### 压缩$/;"	t	subsection:kernel image""构建过程
+子目录的构建	_posts/2023-09-15-kernel-build.md	/^### 子目录的构建$/;"	S	section:kbuild
 开启IA-32e模式	_posts/2023-09-14-enable-ia32e.md	/^### 开启IA-32e模式$/;"	S
 开启保护模式	_posts/2023-09-14-enable-ia32e.md	/^### 开启保护模式$/;"	S
+构建过程	_posts/2023-09-15-kernel-build.md	/^### 构建过程$/;"	S	section:kernel image
+钩子变量	_posts/2023-09-15-kernel-build.md	/^#### 钩子变量$/;"	t	subsection:kbuild""子目录的构建
