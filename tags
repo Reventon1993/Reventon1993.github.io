@@ -1716,6 +1716,7 @@ E	assets/themes/twitter/google-code-prettify/prettify.js	/^t))){s&&(G=G.replace(
 EXCEPTION_REGISTRATION	assets/file/exception/sehtes.cpp	/^struct EXCEPTION_REGISTRATION$/;"	s	file:
 Event	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	c	class:p
 Event	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	f	function:p
+Exceptional Control Flow	_posts/2023-09-21-control-flow.md	/^## Exceptional Control Flow$/;"	s
 F	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v
 F	assets/themes/twitter/google-code-prettify/prettify.js	/^V=\/\\S\/,X=v({keywords:[M,O,E,"caller,delete,die,do,dump,elsif,eval,exit,foreach,for,goto,if,im/;"	v
 Function1	assets/file/exception/sehtes.cpp	/^void Function1( void )$/;"	f	typeref:typename:void
@@ -1782,6 +1783,7 @@ V	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function
 V	assets/themes/twitter/google-code-prettify/prettify.js	/^V=\/\\S\/,X=v({keywords:[M,O,E,"caller,delete,die,do,dump,elsif,eval,exit,foreach,for,goto,if,im/;"	v
 V	assets/themes/twitter/google-code-prettify/run_prettify.js	/^1],W;if(E.nodeType!==1&&(W=i.substring(h,u))){e&&(W=W.replace(d,"\\r"));E.nodeValue=W;var Z=E.ow/;"	v
 VC_EXCEPTION_REGISTRATION	assets/file/exception/sehtes.cpp	/^struct VC_EXCEPTION_REGISTRATION : EXCEPTION_REGISTRATION$/;"	s	file:
+VM Entry&VM Exit	_posts/2023-09-21-control-flow.md	/^## VM Entry&VM Exit$/;"	s
 W	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	c
 W	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v
 W	assets/themes/twitter/google-code-prettify/prettify.js	/^Q=[y,"alias,and,begin,case,class,def,defined,elsif,end,ensure,false,in,module,next,nil,not,or,re/;"	v
@@ -1979,8 +1981,10 @@ cZ	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){functio
 cZ	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	f
 c_	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v
 ca	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	f
+call	_posts/2023-09-21-control-flow.md	/^### call$/;"	S	section:control transfer
 canvas	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^audio,canvas,video{display:inline-block;*display:inline;*zoom:1;}$/;"	s
 cd	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v
+cdecl	_posts/2023-09-21-control-flow.md	/^#### cdecl$/;"	t	subsection:control transfer""call
 ce	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v
 cf	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v
 cg	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v
@@ -2053,6 +2057,8 @@ col	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){functi
 complete	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	f	function:d
 constructor	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	p	class:cZ
 contents	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	p	class:bg
+control flow	_posts/2023-09-21-control-flow.md	/^## control flow$/;"	s
+control transfer	_posts/2023-09-21-control-flow.md	/^## control transfer$/;"	s
 cp	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v
 cq	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v
 cr	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v
@@ -2332,6 +2338,7 @@ input[type="week"] :focus	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.mi
 inspect	_plugins/debug.rb	/^    def inspect$/;"	f	class:Jekyll.Page
 inspect	_plugins/debug.rb	/^    def inspect$/;"	f	class:Jekyll.Post
 install	assets/file/trace/Makefile	/^install:	modules_install$/;"	t
+iret	_posts/2023-09-21-control-flow.md	/^#### iret$/;"	t	subsection:control transfer""异常/软件中断
 isDefaultPrevented	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	p	class:p.Event
 isImmediatePropagationStopped	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	p	class:p.Event
 isPropagationStopped	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	p	class:p.Event
@@ -2344,6 +2351,9 @@ j	assets/themes/twitter/google-code-prettify/run_prettify.js	/^!0;break}if(!n){d
 j	assets/themes/twitter/google-code-prettify/run_prettify.js	/^"text\/javascript";e.src="https:\/\/google-code-prettify.googlecode.com\/svn\/loader\/lang-"+enc/;"	f
 j	assets/themes/twitter/google-code-prettify/run_prettify.js	/^(function(){function X(e){function j(){try{J.doScroll("left")}catch(e){P(j,50);return}w("poll")}/;"	f	function:X
 j	assets/themes/twitter/google-code-prettify/run_prettify.js	/^n.onerror=function(){j(m+1)};n.href=e[m];L.appendChild(n)}}var w=e.length;j(0)})(A);var $=functi/;"	f	function:$
+jcc	_posts/2023-09-21-control-flow.md	/^#### jcc$/;"	t	subsection:control transfer""jump
+jmp	_posts/2023-09-21-control-flow.md	/^#### jmp$/;"	t	subsection:control transfer""jump
+jump	_posts/2023-09-21-control-flow.md	/^### jump$/;"	S	section:control transfer
 k	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	f	function:p.Callbacks
 k	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v
 k	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v	class:p
@@ -2588,6 +2598,10 @@ sup	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^sub,sup{positi
 sup	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^sup{top:-0.5em;}$/;"	s
 support	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	f	function:p
 swing	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	m	class:p.easing
+syscall vs sysenter	_posts/2023-09-21-control-flow.md	/^#### syscall vs sysenter$/;"	t	subsection:control transfer""sysenter
+sysenter	_posts/2023-09-21-control-flow.md	/^### sysenter$/;"	S	section:control transfer
+sysenter	_posts/2023-09-21-control-flow.md	/^#### sysenter$/;"	t	subsection:control transfer""sysenter
+sysexit	_posts/2023-09-21-control-flow.md	/^#### sysexit$/;"	t	subsection:control transfer""sysenter
 t	assets/themes/twitter/google-code-prettify/prettify.js	/^{h:m,c:d,j:u,i:o};K(r)}}}i<p.length?setTimeout(g,250):"function"===typeof a&&a()}for(var b=d||do/;"	v
 t	assets/themes/twitter/google-code-prettify/run_prettify.js	/^!0;break}if(!n){d.className+=" prettyprinted";n=m.lang;if(!n){var n=l.match(q),A;if(!n&&(A=x(d))/;"	c	class:e
 t	assets/themes/twitter/google-code-prettify/run_prettify.js	/^P(e,250):"function"===typeof a&&a()}for(var b=d||document.body,i=b.ownerDocument||document,b=[b./;"	v
@@ -2689,11 +2703,16 @@ z	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function
 {{ page.title }} {% if page.tagline %}{{page.tagline}}{% endif %}	_includes/themes/twitter/post.html	/^    <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}<\/small>{% endif %}<\/h1>$/;"	h
 {{ tag[0] }}	tags.html	/^  <h2 id="{{ tag[0] }}-ref">{{ tag[0] }}<\/h2>$/;"	i
 {{ tag[0] }}-ref	tags.html	/^  <h2 id="{{ tag[0] }}-ref">{{ tag[0] }}<\/h2>$/;"	I
+中断(硬件)机制	_posts/2023-09-21-control-flow.md	/^#### 中断(硬件)机制$/;"	t	subsection:control transfer""异常/软件中断
+中断处理程序	_posts/2023-09-21-control-flow.md	/^#### 中断处理程序$/;"	t	subsection:control transfer""异常/软件中断
 代码	_posts/2023-09-14-enable-ia32e.md	/^### 代码$/;"	S
 内核重定位	_posts/2023-09-15-kernel-build.md	/^#### 内核重定位$/;"	t	subsection:kernel image""构建过程
 压缩	_posts/2023-09-15-kernel-build.md	/^#### 压缩$/;"	t	subsection:kernel image""构建过程
 子目录的构建	_posts/2023-09-15-kernel-build.md	/^### 子目录的构建$/;"	S	section:kbuild
 开启IA-32e模式	_posts/2023-09-14-enable-ia32e.md	/^### 开启IA-32e模式$/;"	S
 开启保护模式	_posts/2023-09-14-enable-ia32e.md	/^### 开启保护模式$/;"	S
+异常/软件中断	_posts/2023-09-21-control-flow.md	/^### 异常\/软件中断$/;"	S	section:control transfer
 构建过程	_posts/2023-09-15-kernel-build.md	/^### 构建过程$/;"	S	section:kernel image
+硬件中断	_posts/2023-09-21-control-flow.md	/^### 硬件中断$/;"	S	section:Exceptional Control Flow
+系统调用	_posts/2023-09-21-control-flow.md	/^#### 系统调用$/;"	t	subsection:control transfer""sysenter
 钩子变量	_posts/2023-09-15-kernel-build.md	/^#### 钩子变量$/;"	t	subsection:kbuild""子目录的构建
