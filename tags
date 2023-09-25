@@ -1349,8 +1349,11 @@ $	assets/themes/twitter/google-code-prettify/run_prettify.js	/^n.onerror=functio
 .well blockquote	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^.well{min-height:20px;padding:19px;margin-bottom:20px;background-color:#f5f5f5;border:1px solid /;"	s
 .well-large	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^.well-large{padding:24px;-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:6px;}$/;"	c
 .well-small	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^.well-small{padding:9px;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;}$/;"	c
+8259A PIC	_posts/2023-09-25-interrupt.md	/^## 8259A PIC$/;"	s
+8259A芯片	_posts/2023-09-25-interrupt.md	/^### 8259A芯片$/;"	S	section:8259A PIC
 A	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	f
 A	assets/themes/twitter/google-code-prettify/run_prettify.js	/^d);var n=l.createElement("ol");n.className="linenums";for(var d=Math.max(0,d-1|0)||0,p=0,q=c.len/;"	f
+APIC	_posts/2023-09-25-interrupt.md	/^## APIC$/;"	s
 ATTR	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	p	class:W
 AnonymousFunction1d6dbbc10100	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	f
 AnonymousFunction1d6dbbc10200	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	f	function:bj
@@ -1726,6 +1729,11 @@ G	assets/themes/twitter/google-code-prettify/run_prettify.js	/^N=[G,"alias,and,b
 H	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v
 I	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v
 I	assets/themes/twitter/google-code-prettify/prettify.js	/^r.className="linenums";for(var d=Math.max(0,d-1|0)||0,i=0,n=c.length;i<n;++i)k=c[i],k.className=/;"	f
+I/O APIC	_posts/2023-09-25-interrupt.md	/^### I\/O APIC$/;"	S	section:APIC
+I/O APIC ID寄存器(R/W)	_posts/2023-09-25-interrupt.md	/^#### I\/O APIC ID寄存器(R\/W)$/;"	t	subsection:APIC""I/O APIC
+I/O APIC版本寄存器(RO)	_posts/2023-09-25-interrupt.md	/^#### I\/O APIC版本寄存器(RO)$/;"	t	subsection:APIC""I/O APIC
+I/O中断定向投递寄存器组	_posts/2023-09-25-interrupt.md	/^#### I\/O中断定向投递寄存器组$/;"	t	subsection:APIC""I/O APIC
+IA32_APIC_BASE	_posts/2023-09-25-interrupt.md	/^#### IA32_APIC_BASE$/;"	t	subsection:APIC""Local APIC
 ID	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	p	class:W
 INCLUDES	assets/file/trace/Makefile	/^INCLUDES = -I. -I$(KDIR)\/include$/;"	m
 J	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	f
@@ -1739,10 +1747,15 @@ K	assets/themes/twitter/google-code-prettify/run_prettify.js	/^[],N=[],K=[];z.re
 KDIR	assets/file/trace/Makefile	/^KDIR    := \/lib\/modules\/$(shell uname -r)\/build$/;"	m
 L	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v
 L	assets/themes/twitter/google-code-prettify/run_prettify.js	/^L=[K,"as,base,by,checked,decimal,delegate,descending,dynamic,event,fixed,foreach,from,group,impl/;"	v
+LVT	_posts/2023-09-25-interrupt.md	/^#### LVT$/;"	t	subsection:APIC""Local APIC
+Local APIC	_posts/2023-09-25-interrupt.md	/^### Local APIC$/;"	S	section:APIC
+Local APIC ID寄存器	_posts/2023-09-25-interrupt.md	/^#### Local APIC ID寄存器$/;"	t	subsection:APIC""Local APIC
+Local APIC版本寄存器	_posts/2023-09-25-interrupt.md	/^#### Local APIC版本寄存器$/;"	t	subsection:APIC""Local APIC
 M	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v
 M	assets/themes/twitter/google-code-prettify/prettify.js	/^"catch,class,delete,false,import,new,operator,private,protected,public,this,throw,true,try,typeo/;"	v
 M	assets/themes/twitter/google-code-prettify/run_prettify.js	/^L=[K,"as,base,by,checked,decimal,delegate,descending,dynamic,event,fixed,foreach,from,group,impl/;"	v
 M	assets/themes/twitter/google-code-prettify/run_prettify.js	/^w,!1);x[t](i+"readystatechange",w,!1);n[t](i+"load",w,!1)}}function Q(){S&&X(function(){var e=K./;"	v
+MSI	_posts/2023-09-25-interrupt.md	/^## MSI$/;"	s
 N	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v
 N	assets/themes/twitter/google-code-prettify/prettify.js	/^"catch,class,delete,false,import,new,operator,private,protected,public,this,throw,true,try,typeo/;"	v
 N	assets/themes/twitter/google-code-prettify/run_prettify.js	/^N=[G,"alias,and,begin,case,class,def,defined,elsif,end,ensure,false,in,module,next,nil,not,or,re/;"	v
@@ -1752,6 +1765,7 @@ O	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function
 O	assets/themes/twitter/google-code-prettify/prettify.js	/^O=[N,"as,base,by,checked,decimal,delegate,descending,dynamic,event,fixed,foreach,from,group,impl/;"	v
 O	assets/themes/twitter/google-code-prettify/run_prettify.js	/^1],W;if(E.nodeType!==1&&(W=i.substring(h,u))){e&&(W=W.replace(d,"\\r"));E.nodeValue=W;var Z=E.ow/;"	v
 O	assets/themes/twitter/google-code-prettify/run_prettify.js	/^L=[K,"as,base,by,checked,decimal,delegate,descending,dynamic,event,fixed,foreach,from,group,impl/;"	v
+OIC寄存器	_posts/2023-09-25-interrupt.md	/^#### OIC寄存器$/;"	t	subsection:APIC""I/O APIC
 P	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v
 P	assets/themes/twitter/google-code-prettify/prettify.js	/^O=[N,"as,base,by,checked,decimal,delegate,descending,dynamic,event,fixed,foreach,from,group,impl/;"	v
 POS	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	p	class:W
@@ -2690,6 +2704,7 @@ x	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function
 x	assets/themes/twitter/google-code-prettify/prettify.js	/^a)}var b=\/(?:^|\\s)nocode(?:\\s|$)\/,s=[],x=0,m=[],j=0;g(a);return{a:s.join("").replace(\/\\n$\//;"	v
 x	assets/themes/twitter/google-code-prettify/prettify.js	/^g[c],n=r[3];if(n)for(var e=n.length;--e>=0;)b[n.charAt(e)]=r;r=r[1];n=""+r;k.hasOwnProperty(n)||/;"	v
 x	assets/themes/twitter/google-code-prettify/run_prettify.js	/^3||c==4)c=a.nodeValue,c.length&&(c=d?c.replace(\/\\r\\n?\/g,"\\n"):c.replace(\/[\\t\\n\\r ]+\/g,/;"	f
+x2APIC	_posts/2023-09-25-interrupt.md	/^#### x2APIC$/;"	t	subsection:APIC""Local APIC
 y	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	f	function:AnonymousFunction1d6dbbc112a00
 y	assets/themes/twitter/google-code-prettify/prettify.js	/^Q=[y,"alias,and,begin,case,class,def,defined,elsif,end,ensure,false,in,module,next,nil,not,or,re/;"	v
 y	assets/themes/twitter/google-code-prettify/prettify.js	/^t))){s&&(G=G.replace(d,"\\r"));A.nodeValue=G;var L=A.ownerDocument,o=L.createElement("span");o.c/;"	v
@@ -2704,15 +2719,24 @@ z	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function
 {{ tag[0] }}	tags.html	/^  <h2 id="{{ tag[0] }}-ref">{{ tag[0] }}<\/h2>$/;"	i
 {{ tag[0] }}-ref	tags.html	/^  <h2 id="{{ tag[0] }}-ref">{{ tag[0] }}<\/h2>$/;"	I
 中断(硬件)机制	_posts/2023-09-21-control-flow.md	/^#### 中断(硬件)机制$/;"	t	subsection:control transfer""异常/软件中断
+中断共享	_posts/2023-09-25-interrupt.md	/^### 中断共享$/;"	S	section:APIC
 中断处理程序	_posts/2023-09-21-control-flow.md	/^#### 中断处理程序$/;"	t	subsection:control transfer""异常/软件中断
+中断工作流程	_posts/2023-09-25-interrupt.md	/^### 中断工作流程$/;"	S	section:8259A PIC
+中断源	_posts/2023-09-25-interrupt.md	/^#### 中断源$/;"	t	subsection:APIC""Local APIC
 代码	_posts/2023-09-14-enable-ia32e.md	/^### 代码$/;"	S
+其他重要寄存器	_posts/2023-09-25-interrupt.md	/^#### 其他重要寄存器$/;"	t	subsection:APIC""Local APIC
 内核重定位	_posts/2023-09-15-kernel-build.md	/^#### 内核重定位$/;"	t	subsection:kernel image""构建过程
+内部寄存器	_posts/2023-09-25-interrupt.md	/^### 内部寄存器$/;"	S	section:8259A PIC
 压缩	_posts/2023-09-15-kernel-build.md	/^#### 压缩$/;"	t	subsection:kernel image""构建过程
 子目录的构建	_posts/2023-09-15-kernel-build.md	/^### 子目录的构建$/;"	S	section:kbuild
+寄存器组	_posts/2023-09-25-interrupt.md	/^#### 寄存器组$/;"	t	subsection:APIC""I/O APIC
+寄存器组&内部结构	_posts/2023-09-25-interrupt.md	/^#### 寄存器组&内部结构$/;"	t	subsection:APIC""Local APIC
 开启IA-32e模式	_posts/2023-09-14-enable-ia32e.md	/^### 开启IA-32e模式$/;"	S
 开启保护模式	_posts/2023-09-14-enable-ia32e.md	/^### 开启保护模式$/;"	S
 异常/软件中断	_posts/2023-09-21-control-flow.md	/^### 异常\/软件中断$/;"	S	section:control transfer
 构建过程	_posts/2023-09-15-kernel-build.md	/^### 构建过程$/;"	S	section:kernel image
 硬件中断	_posts/2023-09-21-control-flow.md	/^### 硬件中断$/;"	S	section:Exceptional Control Flow
+系统中断模式	_posts/2023-09-25-interrupt.md	/^## 系统中断模式$/;"	s
 系统调用	_posts/2023-09-21-control-flow.md	/^#### 系统调用$/;"	t	subsection:control transfer""sysenter
 钩子变量	_posts/2023-09-15-kernel-build.md	/^#### 钩子变量$/;"	t	subsection:kbuild""子目录的构建
+间接访问寄存器组	_posts/2023-09-25-interrupt.md	/^#### 间接访问寄存器组$/;"	t	subsection:APIC""I/O APIC
