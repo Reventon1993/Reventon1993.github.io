@@ -15,6 +15,10 @@ $	assets/themes/twitter/google-code-prettify/run_prettify.js	/^n.onerror=functio
 %.ko	assets/file/trace/Makefile	/^%.ko: %.o$/;"	t
 *	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^@media print{*{text-shadow:none !important;color:#000 !important;background:transparent !importa/;"	s
 *	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	p	class:cT
+-device pxb	_posts/2023-12-06-numa.md	/^## -device pxb$/;"	s	chapter:NUMA IN QEMU
+-m	_posts/2023-12-06-numa.md	/^## -m$/;"	s	chapter:NUMA IN QEMU
+-numa	_posts/2023-12-06-numa.md	/^## -numa$/;"	s	chapter:NUMA IN QEMU
+-smp&-cpu	_posts/2023-12-06-numa.md	/^## -smp&-cpu$/;"	s	chapter:NUMA IN QEMU
 .affix	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^.affix{position:fixed;}$/;"	c
 .alert	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^.alert,.alert h4{color:#c09853;}$/;"	c
 .alert	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^.alert{padding:8px 35px 8px 14px;margin-bottom:20px;text-shadow:0 1px 0 rgba(255, 255, 255, 0.5)/;"	c
@@ -1707,6 +1711,7 @@ C	assets/themes/twitter/google-code-prettify/run_prettify.js	/^3||c==4)c=a.nodeV
 CFLAGS_sillymod.o	assets/file/trace/Makefile	/^CFLAGS_sillymod.o = -I$(src)$/;"	m
 CHILD	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	p	class:W
 CLASS	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	p	class:W
+CPU热升配	_posts/2023-12-06-numa.md	/^### CPU热升配$/;"	S	section:进阶""热升配
 CREATE_TRACE_POINTS	assets/file/trace/sillymod.c	/^#define CREATE_TRACE_POINTS$/;"	d	file:
 Callbacks	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	f	function:p
 D	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	f
@@ -1761,6 +1766,8 @@ N	assets/themes/twitter/google-code-prettify/prettify.js	/^"catch,class,delete,f
 N	assets/themes/twitter/google-code-prettify/run_prettify.js	/^N=[G,"alias,and,begin,case,class,def,defined,elsif,end,ensure,false,in,module,next,nil,not,or,re/;"	v
 N	assets/themes/twitter/google-code-prettify/run_prettify.js	/^[],N=[],K=[];z.replace(\/[&?]([^&=]+)=([^&]+)\/g,function(e,j,w){w=decodeURIComponent(w);j=decod/;"	v
 NAME	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	p	class:W
+NUMA	_posts/2023-12-06-numa.md	/^# NUMA$/;"	c
+NUMA IN QEMU	_posts/2023-12-06-numa.md	/^# NUMA IN QEMU$/;"	c
 O	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v
 O	assets/themes/twitter/google-code-prettify/prettify.js	/^O=[N,"as,base,by,checked,decimal,delegate,descending,dynamic,event,fixed,foreach,from,group,impl/;"	v
 O	assets/themes/twitter/google-code-prettify/run_prettify.js	/^1],W;if(E.nodeType!==1&&(W=i.substring(h,u))){e&&(W=W.replace(d,"\\r"));E.nodeValue=W;var Z=E.ow/;"	v
@@ -1899,6 +1906,8 @@ bY	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){functio
 bZ	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	f
 b_	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	f
 ba	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	f
+balloon device	_posts/2023-12-06-numa.md	/^### balloon device$/;"	S	section:进阶""memory balloon
+balloon memory	_posts/2023-12-06-numa.md	/^### balloon memory$/;"	S	section:进阶""memory balloon
 bb	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	f
 bc	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	f
 bc	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v
@@ -2207,6 +2216,8 @@ has	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){functi
 header	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display:block;}$/;"	s
 height	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	p	class:c$.d
 hgroup	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display:block;}$/;"	s
+host numa	_posts/2023-12-06-numa.md	/^## host numa$/;"	s	chapter:进阶
+hotpluggable memory	_posts/2023-12-06-numa.md	/^### hotpluggable memory$/;"	S	section:NUMA IN QEMU""-m
 hr	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^hr{margin:20px 0;border:0;border-top:1px solid #eeeeee;border-bottom:1px solid #ffffff;}$/;"	s
 hrefNormalized	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	p	class:p.support.b
 html	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^html{font-size:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;}$/;"	s
@@ -2383,6 +2394,7 @@ l	assets/themes/twitter/google-code-prettify/prettify.js	/^h[1]>h[0]&&(h[1]+1>h[
 label	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^label,input,button,select,textarea{font-size:14px;font-weight:normal;line-height:20px;}$/;"	s
 label	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^label,select,button,input[type="button"],input[type="reset"],input[type="submit"],input[type="ra/;"	s
 label	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^label{display:block;margin-bottom:5px;}$/;"	s
+lantency、...	_posts/2023-12-06-numa.md	/^## lantency、...$/;"	s	chapter:NUMA
 leadingWhitespace	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	p	class:p.support.b
 left	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	p	class:p.fn.offset.j
 legend	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^legend{display:block;width:100%;padding:0;margin-bottom:20px;font-size:21px;line-height:40px;col/;"	s
@@ -2427,6 +2439,8 @@ li.L8	assets/themes/twitter/google-code-prettify/sunburst.css	/^li.L0,li.L1,li.L
 li.L9	assets/themes/twitter/google-code-prettify/prettify.css	/^li.L1,li.L3,li.L5,li.L7,li.L9 { }$/;"	c
 li.L9	assets/themes/twitter/google-code-prettify/prettify_bak.css	/^.pln{color:#000}@media screen{.str{color:#080}.kwd{color:#008}.com{color:#800}.typ{color:#606}.l/;"	c
 li.L9	assets/themes/twitter/google-code-prettify/sunburst.css	/^li.L1,li.L3,li.L5,li.L7,li.L9 { }$/;"	c
+libvirt xml	_posts/2023-12-06-numa.md	/^# libvirt xml$/;"	c
+libvirt xml	_posts/2023-12-06-numa.md	/^#### libvirt xml$/;"	t	subsection:进阶""host numa""绑内存
 linear	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	m	class:p.easing
 load	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	f	function:p.fn
 lock	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	m	class:l
@@ -2442,6 +2456,7 @@ make_pool	assets/file/ms17010/ms17010detect.py	/^def make_pool(thread, iplist_li
 makefiles	_posts/2023-09-15-kernel-build.md	/^## makefiles$/;"	s
 matches	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	f	function:bc
 matchesSelector	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	f	function:bc
+memory balloon	_posts/2023-12-06-numa.md	/^## memory balloon$/;"	s	chapter:进阶
 module_exit	assets/file/trace/sillymod.c	/^module_exit(silly_exit);$/;"	p	file:
 module_init	assets/file/trace/sillymod.c	/^module_init(silly_init);$/;"	p	file:
 modules	_posts/2023-09-15-kernel-build.md	/^### modules$/;"	S	section:kernel build
@@ -2456,6 +2471,10 @@ nav	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^article,aside,
 needsContext	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	p	class:W
 next	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	p	class:bg
 noCloneEvent	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	p	class:p.support.b
+numa in linux	_posts/2023-12-06-numa.md	/^## numa in linux$/;"	s	chapter:NUMA
+numa policy&numactl	_posts/2023-12-06-numa.md	/^### numa policy&numactl$/;"	S	section:NUMA""numa in linux
+numa.h	_posts/2023-12-06-numa.md	/^### numa.h$/;"	S	section:NUMA""numa in linux
+numastat	_posts/2023-12-06-numa.md	/^### numastat$/;"	S	section:NUMA""numa in linux
 o	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	v
 obj-m	assets/file/trace/Makefile	/^obj-m	:= sillymod.o$/;"	m
 offset	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	c	class:p
@@ -2556,6 +2575,7 @@ r	assets/themes/twitter/google-code-prettify/prettify.js	/^o.className&&e.test(o
 r	assets/themes/twitter/google-code-prettify/prettify.js	/^{h:m,c:d,j:u,i:o};K(r)}}}i<p.length?setTimeout(g,250):"function"===typeof a&&a()}for(var b=d||do/;"	v
 r	assets/themes/twitter/google-code-prettify/run_prettify.js	/^!function(){var r=null;$/;"	v
 readonly	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^input[type="radio"][disabled],input[type="checkbox"][disabled],input[type="radio"][readonly],inp/;"	s
+reference	_posts/2023-12-06-numa.md	/^# reference$/;"	c
 reliableMarginRight	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	p	class:p.support.b
 remove	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	m	class:l
 remove	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	m	class:p.event
@@ -2582,6 +2602,7 @@ select[disabled]	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^i
 select[multiple]	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^select[multiple],select[size]{height:auto;}$/;"	s
 select[readonly]	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^input[disabled],select[disabled],textarea[disabled],input[readonly],select[readonly],textarea[re/;"	s
 select[size]	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^select[multiple],select[size]{height:auto;}$/;"	s
+set/get balloon memory	_posts/2023-12-06-numa.md	/^### set\/get balloon memory$/;"	S	section:进阶""memory balloon
 setData	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	p	class:p.event.customEvent
 setOffset	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	m	class:p.offset
 setup.bin	_posts/2023-09-15-kernel-build.md	/^### setup.bin$/;"	S	section:kernel build
@@ -2616,12 +2637,14 @@ syscall vs sysenter	_posts/2023-09-21-control-flow.md	/^#### syscall vs sysenter
 sysenter	_posts/2023-09-21-control-flow.md	/^### sysenter$/;"	S	section:control transfer
 sysenter	_posts/2023-09-21-control-flow.md	/^#### sysenter$/;"	t	subsection:control transfer""sysenter
 sysexit	_posts/2023-09-21-control-flow.md	/^#### sysexit$/;"	t	subsection:control transfer""sysenter
+sysfs	_posts/2023-12-06-numa.md	/^### sysfs$/;"	S	section:NUMA""numa in linux
 t	assets/themes/twitter/google-code-prettify/prettify.js	/^{h:m,c:d,j:u,i:o};K(r)}}}i<p.length?setTimeout(g,250):"function"===typeof a&&a()}for(var b=d||do/;"	v
 t	assets/themes/twitter/google-code-prettify/run_prettify.js	/^!0;break}if(!n){d.className+=" prettyprinted";n=m.lang;if(!n){var n=l.match(q),A;if(!n&&(A=x(d))/;"	c	class:e
 t	assets/themes/twitter/google-code-prettify/run_prettify.js	/^P(e,250):"function"===typeof a&&a()}for(var b=d||document.body,i=b.ownerDocument||document,b=[b./;"	v
 table	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^table{max-width:100%;background-color:transparent;border-collapse:collapse;border-spacing:0;}$/;"	s
 table td[class*="span"]	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^table td[class*="span"],table th[class*="span"],.row-fluid table td[class*="span"],.row-fluid ta/;"	s
 table th[class*="span"]	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^table td[class*="span"],table th[class*="span"],.row-fluid table td[class*="span"],.row-fluid ta/;"	s
+taskset	_posts/2023-12-06-numa.md	/^### taskset$/;"	S	section:进阶""host numa
 tbody	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	p	class:p.support.b
 td	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function G(a){var b=F[a]={};return p.each(a.split(s),function(a,c){b[c]=!0}),b}fu/;"	p	class:bz
 textarea	assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css	/^@media (min-width:768px) and (max-width:979px){.hidden-desktop{display:inherit !important;} .vis/;"	s
@@ -2725,6 +2748,7 @@ z	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function
 中断源	_posts/2023-09-25-interrupt.md	/^#### 中断源$/;"	t	subsection:APIC""Local APIC
 代码	_posts/2023-09-14-enable-ia32e.md	/^### 代码$/;"	S
 其他重要寄存器	_posts/2023-09-25-interrupt.md	/^#### 其他重要寄存器$/;"	t	subsection:APIC""Local APIC
+内存热升配	_posts/2023-12-06-numa.md	/^### 内存热升配$/;"	S	section:进阶""热升配
 内核重定位	_posts/2023-09-15-kernel-build.md	/^#### 内核重定位$/;"	t	subsection:kernel image""构建过程
 内部寄存器	_posts/2023-09-25-interrupt.md	/^### 内部寄存器$/;"	S	section:8259A PIC
 压缩	_posts/2023-09-15-kernel-build.md	/^#### 压缩$/;"	t	subsection:kernel image""构建过程
@@ -2735,8 +2759,13 @@ z	assets/themes/twitter/google-code-prettify/jquery.js	/^(function(a,b){function
 开启保护模式	_posts/2023-09-14-enable-ia32e.md	/^### 开启保护模式$/;"	S
 异常/软件中断	_posts/2023-09-21-control-flow.md	/^### 异常\/软件中断$/;"	S	section:control transfer
 构建过程	_posts/2023-09-15-kernel-build.md	/^### 构建过程$/;"	S	section:kernel image
+热升配	_posts/2023-12-06-numa.md	/^## 热升配$/;"	s	chapter:进阶
 硬件中断	_posts/2023-09-21-control-flow.md	/^### 硬件中断$/;"	S	section:Exceptional Control Flow
+示例	_posts/2023-12-06-numa.md	/^### 示例$/;"	S	section:NUMA IN QEMU""-m
 系统中断模式	_posts/2023-09-25-interrupt.md	/^## 系统中断模式$/;"	s
 系统调用	_posts/2023-09-21-control-flow.md	/^#### 系统调用$/;"	t	subsection:control transfer""sysenter
+绑内存	_posts/2023-12-06-numa.md	/^### 绑内存$/;"	S	section:进阶""host numa
+绑核	_posts/2023-12-06-numa.md	/^### 绑核$/;"	S	section:进阶""host numa
+进阶	_posts/2023-12-06-numa.md	/^# 进阶$/;"	c
 钩子变量	_posts/2023-09-15-kernel-build.md	/^#### 钩子变量$/;"	t	subsection:kbuild""子目录的构建
 间接访问寄存器组	_posts/2023-09-25-interrupt.md	/^#### 间接访问寄存器组$/;"	t	subsection:APIC""I/O APIC

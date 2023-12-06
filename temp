@@ -1,0 +1,7 @@
+---
+layout: post
+title: "big real mode"
+category: qemu
+tags: [qemu,libvirt,numa虚拟化,cpu虚拟化,内存虚拟化]
+---
+{% include JB/setup %}
